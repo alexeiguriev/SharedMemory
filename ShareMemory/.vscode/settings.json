@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "shm.h": "c",
+        "ipc.h": "c",
+        "shared_memory.h": "c",
+        "shared_memory_cnf.h": "c"
+    }
+}

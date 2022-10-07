@@ -1,0 +1,9 @@
+import os
+os.startfile("readshmem.exe")
+subprocess.run(["readshmem.elf],"writeshmem.c")
+
+os.system('"/home/remote/a/Study/C,C++/C/ShareMemory.readshmem.exe"')
+subprocess.Popen([r"/home/remote/a/Study/C,C++/C/ShareMemory/readshmem.exe"])
+subprocess.Popen([r"/home/remote/a/Study/C,C++/C/ShareMemory/readshmem.exe,writeshmem.c"])
+subprocess.Popen([r"/home/remote/a/Study/C,C++/C/ShareMemory/readshmem.exe",r"writeshmem.c"])
+subprocess.Popen([r"/home/remote/a/Study/C,C++/C/ShareMemory/writeshmem.exe",r"testmessage4",r"writeshmem.c"])
